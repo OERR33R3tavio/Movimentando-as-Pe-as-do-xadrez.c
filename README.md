@@ -1,1 +1,1 @@
-# Movimentando-as-Pe-as-do-xadrez.c
+# Movimentando-Peças do xadrez.c
